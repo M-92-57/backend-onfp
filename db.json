@@ -1,0 +1,20 @@
+{
+  "candidates": [
+    {
+"id": 1760531995279,
+      "prenom": "Aliou",
+      "nom": "Tamba",
+      "dateNaissance": "2025-09-30",
+      "lieuNaissance": "THIES",
+      "email": "test@mail.com",
+      "cin": "11112222",
+      "tel": "771000000",
+      "adresse": "POUT",
+      "password": "Aliou@123",
+      "niveau": "Licence",
+      "specialite": "Développeur Frontend",
+      "experience": "2",
+      "statut": "accepte"
+    }
+  ]
+}
